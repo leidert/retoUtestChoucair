@@ -8,13 +8,9 @@ usuario.
 Git y cargar el código del ejercicio para luego compartir por correo electrónico dicho
 repositorio a: yarias@choucairtesting.com
 
-##Aspectos para evaluar:
+## Aspectos para evaluar:
 * Creación de la historia de usuario en español o inglés (No mezclar idiomas).
 * Aplicación del Patrón Screenplay.
 * Aplicación del modelo y estructura de proyecto.
-* Uso adecuado de la prioridad en la identificación de los objetos (locators)
-> Id
-> Name
-> Class
-> Xpath relativos
+* Uso adecuado de la prioridad en la identificación de los objetos (locators)(Id, Name, Class, Xpath relativos)
 
